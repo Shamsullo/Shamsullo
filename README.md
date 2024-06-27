@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# 👋 Welcome to My GitHub Profile!
-
 ## About Me
 
 I am a passionate Backend Software Engineer with 4+ of experience specializing in API development, database design, and system architecture. My expertise spans across fintech, edtech, and cleantech industries. Here, you'll find a showcase of my skills, projects, and contributions in the field of software engineering.
@@ -12,7 +10,7 @@ I am a passionate Backend Software Engineer with 4+ of experience specializing i
 - **Frameworks:** Django, Django Rest Framework, FastAPI, SQLAlchemy
 - **Databases:** PostgreSQL, MySQL, Oracle, Redis, ElasticSearch
 - **Developer Tools:** Celery, RabbitMQ, AWS (EC2, S3, LightSail, CloudWatch), Docker, ELK, Grafana, Firebase, Git, CI/CD, Jira (Scrum), Cloudflare, Nginx
-- **Protocols & OS:** HTTP/FTP/NFS, Linux
+- **Protocols & OS:** HTTP/FTP/NFS, SMTP, Linux
 
 ### 📈 Current Work
 
@@ -33,9 +31,6 @@ I am currently working as a Backend Software Engineer at a leading bank, where I
 - **Assaia:** Improving aviation processes and safety with a comprehensive tech stack.
 - **LineChange:** Financial and cryptocurrency exchange projects.
 
-### 🚀 Open Source Contributions
-......
-
 ### 📫 Let's Connect
 
 - **Email:** [shamsulloismatov@gmail.com](mailto:shamsulloismatov@gmail.com)
@@ -48,9 +43,9 @@ Feel free to reach out if you have any questions, opportunities, or just want to
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamsullo&show_icons=true&theme=default&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsullo&layout=compact&theme=default)
 
 ---
 
