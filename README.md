@@ -43,9 +43,10 @@ Feel free to reach out if you have any questions, opportunities, or just want to
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamsullo&show_icons=true&theme=default&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsullo&layout=compact&theme=default)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shamsullo&show_icons=true&theme=default&show_icons=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsullo&layout=compact&theme=default" alt="Top Langs" />
+</div>
 
 ---
 
