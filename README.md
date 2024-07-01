@@ -15,7 +15,7 @@ I am a passionate Backend Software Engineer with 4+ of experience specializing i
 ### 📈 Current Work
 
 I am currently working as a Backend Software Engineer at a leading bank, where I design and develop money transferring services, file parsers for reconciliation management, and the backend for internet banking for corporate clients. My role also involves performing code reviews and collaborating with my team to ensure smooth project delivery.
-
+<!--
 ### 🌟 Notable Projects
 
 - **SMS Testing and Routing System:** Developed an SMS gateway and testing system.
@@ -30,7 +30,7 @@ I am currently working as a Backend Software Engineer at a leading bank, where I
 - **Yoloco:** Working with Django, Kafka, Clickhouse, ElasticSearch, Kubernetes, Redis, and PostgreSQL.
 - **Assaia:** Improving aviation processes and safety with a comprehensive tech stack.
 - **LineChange:** Financial and cryptocurrency exchange projects.
-
+-->
 ### 📫 Let's Connect
 
 - **Email:** [shamsulloismatov@gmail.com](mailto:shamsulloismatov@gmail.com)
