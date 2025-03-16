@@ -40,14 +40,6 @@ I am currently working as a Backend Software Engineer at a leading bank, where I
 Feel free to reach out if you have any questions, opportunities, or just want to connect. I'm always open to interesting conversations and collaborations!
 
 ---
-
-### 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamsullo&show_icons=true&theme=default&show_icons=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsullo&layout=compact&theme=default" alt="Top Langs" />
-</div>
-
 ---
 
 Thank you for visiting my profile! 😊
